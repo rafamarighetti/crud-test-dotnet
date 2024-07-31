@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\DESENVOLVIMENTO\\crud-test-dotnet\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1368148-02A6-4362-8EE6-49DE6BD70C0F}|ConexaoCodeFirst\\ConexaoCodeFirst.csproj|b:\\desenvolvimento\\crud-test-dotnet\\backend\\conexaocodefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1368148-02A6-4362-8EE6-49DE6BD70C0F}|ConexaoCodeFirst\\ConexaoCodeFirst.csproj|solutionrelative:conexaocodefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1368148-02A6-4362-8EE6-49DE6BD70C0F}|ConexaoCodeFirst\\ConexaoCodeFirst.csproj|b:\\desenvolvimento\\crud-test-dotnet\\backend\\conexaocodefirst\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1368148-02A6-4362-8EE6-49DE6BD70C0F}|ConexaoCodeFirst\\ConexaoCodeFirst.csproj|solutionrelative:conexaocodefirst\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1368148-02A6-4362-8EE6-49DE6BD70C0F}|ConexaoCodeFirst\\ConexaoCodeFirst.csproj|b:\\desenvolvimento\\crud-test-dotnet\\backend\\conexaocodefirst\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1368148-02A6-4362-8EE6-49DE6BD70C0F}|ConexaoCodeFirst\\ConexaoCodeFirst.csproj|solutionrelative:conexaocodefirst\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\DESENVOLVIMENTO\\crud-test-dotnet\\backend\\ConexaoCodeFirst\\Migrations\\20240731141749_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConexaoCodeFirst\\Migrations\\20240731141749_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240731141749_Initial.cs",
+              "DocumentMoniker": "B:\\DESENVOLVIMENTO\\crud-test-dotnet\\backend\\ConexaoCodeFirst\\Migrations\\20240731141749_Initial.cs",
+              "RelativeDocumentMoniker": "ConexaoCodeFirst\\Migrations\\20240731141749_Initial.cs",
+              "ToolTip": "B:\\DESENVOLVIMENTO\\crud-test-dotnet\\backend\\ConexaoCodeFirst\\Migrations\\20240731141749_Initial.cs",
+              "RelativeToolTip": "ConexaoCodeFirst\\Migrations\\20240731141749_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:17:49.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "B:\\DESENVOLVIMENTO\\crud-test-dotnet\\backend\\ConexaoCodeFirst\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ConexaoCodeFirst\\Models\\Client.cs",
+              "ToolTip": "B:\\DESENVOLVIMENTO\\crud-test-dotnet\\backend\\ConexaoCodeFirst\\Models\\Client.cs",
+              "RelativeToolTip": "ConexaoCodeFirst\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:16:10.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "B:\\DESENVOLVIMENTO\\crud-test-dotnet\\backend\\ConexaoCodeFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ConexaoCodeFirst\\Controllers\\HomeController.cs",
+              "ToolTip": "B:\\DESENVOLVIMENTO\\crud-test-dotnet\\backend\\ConexaoCodeFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ConexaoCodeFirst\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:10:26.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "B:\\DESENVOLVIMENTO\\crud-test-dotnet\\backend\\ConexaoCodeFirst\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConexaoCodeFirst\\Data\\AppDbContext.cs",
+              "ToolTip": "B:\\DESENVOLVIMENTO\\crud-test-dotnet\\backend\\ConexaoCodeFirst\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ConexaoCodeFirst\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:09:50.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

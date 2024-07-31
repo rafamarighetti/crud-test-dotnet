@@ -1,0 +1,55 @@
+<div>
+  <div class="submit-form">
+    @if (!submitted) {
+    <div class="form-group">
+      <label for="title">Nome Completo</label>
+      <input
+        type="text"
+        class="form-control"
+        id="title"
+        required
+        [(ngModel)]="user.fullName"
+        name="title"
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="description">Data de Nascimento</label>
+      <input
+        class="form-control"
+        id="birthDate"
+        required
+        [(ngModel)]="user.birthDate"
+        name="birthDate"
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="description">CPF</label>
+      <input
+        class="form-control"
+        id="cpf"
+        required
+        [(ngModel)]="user.cpf"
+        name="cpf"
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="income">Renda</label>
+      <input
+        class="form-control"
+        id="income"
+        required
+        [(ngModel)]="user.income"
+        name="income"
+      />
+    </div>
+
+    <button (click)="saveUser()" class="btn btn-success">Submeter</button>
+    } @else {
+    <h4>Usuário cadastrado com sucesso!</h4>
+    <button class="btn btn-success" (click)="newUser()">Adicionar</button>
+    }
+  </div>
+</div>
